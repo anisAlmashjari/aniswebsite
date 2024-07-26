@@ -1,5 +1,13 @@
-
-#Navigation {
-  width: 80%;
-  
-}
+.Navigation {
+  width: 98%;
+  margin: auto;
+  background-color: #a8edea;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 30px;
+ }
+ .bio , h1{
+ 
+   margin: 16px;
+ 
+ }
