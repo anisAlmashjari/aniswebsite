@@ -1,5 +1,7 @@
 #bio , h1 { 
-  display:inline
+  display:inline-block;
+  width: 50%;
+
 }
 
 #Navigation {
