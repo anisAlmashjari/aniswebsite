@@ -8,8 +8,7 @@ html {
 }
 
 div {
-display: grid;
-
+width:80%;
 background-color: #a8edea;
 padding-top: 12px;
 border-radius: 30px;
