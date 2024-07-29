@@ -8,7 +8,8 @@ html {
 }
 
 div {
-width:80%;
+width: 80%;
+margin: auto;
 background-color: #a8edea;
 padding-top: 12px;
 border-radius: 30px;
